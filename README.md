@@ -18,4 +18,10 @@ password: ooklee
   - modifier icône panier (png caddie IKONS package d'icône)
   - mettre le terme recherche entre parenthèse en rouge pour une page sans résultat
 
+- blog
+  - éditez 4 articles
+  - afficher les 3 derniers
+  - mettre la date au dessus du titre
+  - mettre la date au format long
+  - afficher le détail de l'article en pleine largeur de la page
 
