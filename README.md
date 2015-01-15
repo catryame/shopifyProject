@@ -25,3 +25,9 @@ password: ooklee
   - mettre la date au format long
   - afficher le détail de l'article en pleine largeur de la page
 
+- page contact
+  - créer une page contact
+  - ajouter a l'arborescence
+  - supprimer les <br> après les labels
+  - faire passer les champs à la ligne en css (input)
+  - centrer le formulaire sur la page
