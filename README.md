@@ -6,6 +6,7 @@ password: ooklee
   - configurer couleurs/background
   - passer le thème en français
   - passer la navigation et url en français
+  - 4 produits par colonne/ 8 par page
 
 # contenu
   - titre boutique
