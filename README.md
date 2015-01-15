@@ -1,1 +1,3 @@
 # shopifyProject
+
+password: ooklee
